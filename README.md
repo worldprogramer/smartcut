@@ -26,17 +26,7 @@
 
 ## 介绍
 
-~~智剪软件依赖[ImageMagick](https://www.imagemagick.org/script/index.php)~~
-
-~~需要先安装ImageMagick图像处理库。点击[ImageMagick下载](https://www.imagemagick.org/script/download.php#windows)，请选择合适的系统版本安装~~
-
-~~发布包中也提供了ImageMagick安装包，双击安装即可。~~
-
-~~在安装ImageMagick时请注意勾选 `install legacy utilities (e.g.convert)` 选项~~
-
-![](images/imageMagick.png)
-
-smartspit.exe 本身是免安装版本，你可以将包含smartspit.exe的整个文件夹放入任意合适的位置（注意放入的路径不能包含中文），然后双击即可打开。为了方便使用，你也可以为它创建一个桌面快捷方式。
+Smart Cut 本身是免安装版本，你可以将包含smartcut.exe的整个文件夹放入电脑任意合适的位置（注意放入的路径不能包含中文），然后双击即可打开。为了方便使用，你也可以为它创建一个桌面快捷方式。
 
 ## 使用说明
 #### 1. 设置
@@ -55,4 +45,5 @@ smartspit.exe 本身是免安装版本，你可以将包含smartspit.exe的整�
 更简单的时你可以把所有素材导入到一个镜头中，并选择全部模式，他会进行任意混剪。
 3. 你可以添加背景音乐，生成视频时会自动为你加上背景音乐
 4. 添加你的文案(可以一次选多个)，点击开始生成，软件会开始自动生成视频。
+5. 生成完成后可以鼠标右键打开视频的位置，在视频所在的文件夹中也可以找到对应音频和字幕文件，如果需要重新生成视频或者音频需要删除对应的音频和字幕文件和视频文件。
 
